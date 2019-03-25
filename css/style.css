@@ -39,6 +39,10 @@ h1 {
 	color: rgb(152,173,166);
 }
 
+header a {
+	text-decoration: none;
+}
+
 header a:hover{
 	text-decoration: none;
   color: rgb(111,127,122);
