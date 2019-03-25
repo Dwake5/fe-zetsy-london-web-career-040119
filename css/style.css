@@ -60,6 +60,10 @@ p {
   margin: 0 0 20px 0;
 }
 
+#more:link, #more:active, #more:hover, #more:visited {
+  color: rgb(23,131,187);
+}
+
 #press img {
     border: 5px #ccc solid;
     padding: 1px;
