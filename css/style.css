@@ -30,11 +30,11 @@ h1 {
   font-weight: normal;
   font-family: 'Baskerville', serif;
   border-bottom: 1px solid #ccc;
+	text-decoration: none;
+	color: rgb(152,173,166);
 }
 
 header {
-	text-decoration: none;
-	color: rgb(152,173,166);
 }
 
 header a:hover{
