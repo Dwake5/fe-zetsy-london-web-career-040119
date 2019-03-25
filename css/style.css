@@ -35,9 +35,11 @@ h1 {
   font-weight: normal;
   font-family: 'Baskerville', serif;
   border-bottom: 1px solid #ccc;
-	color: rgb(152,173,166);
 }
 
+header a {
+	color: rgb(152,173,166)
+}
 
 header a:hover{
 	text-decoration: none;
